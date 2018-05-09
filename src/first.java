@@ -8,7 +8,7 @@ public class first{
     	public int dummy(int number) {
     		number = temp;
     		if (number==10) {
-    			System.println("Ten");
+    			System("Ten");
     		}
     	}
     	
