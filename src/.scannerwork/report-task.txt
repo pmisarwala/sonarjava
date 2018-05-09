@@ -2,5 +2,5 @@ projectKey=sonarjava
 serverUrl=http://localhost:9000
 serverVersion=6.7.2.37468
 dashboardUrl=http://localhost:9000/dashboard/index/sonarjava
-ceTaskId=AWNCrJjZ83sftU7EOX0P
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWNCrJjZ83sftU7EOX0P
+ceTaskId=AWNCv9G483sftU7EOX0U
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWNCv9G483sftU7EOX0U
